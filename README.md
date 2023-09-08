@@ -1,27 +1,8 @@
-# BuzzfeedTest
+# BuzzfeedTest 🕹️
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
+ Criação de um mini-game ou um quiz, que gera um certo resultado de acordo com as escolhar do usuário. Projeto realizado a partir do curso de Angular da [DIO](https://www.dio.me/).
+ Projeto realizado inteiramente com Angular, colocando em prática tudo o que foi passado no curso e criando algo que seja lúdico e bem intuitivo!
 
-## Development server
+ ## Preview do layout finalizado:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+ <img src="./assets/preview.png">
