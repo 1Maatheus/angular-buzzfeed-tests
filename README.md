@@ -5,4 +5,4 @@ Projeto realizado inteiramente com Angular, colocando em prática tudo o que foi
 
 ## Preview do layout finalizado:
 
- <img src="./src/assets/preview.png">
+ <img src="./src/assets/imgs/preview.png">
