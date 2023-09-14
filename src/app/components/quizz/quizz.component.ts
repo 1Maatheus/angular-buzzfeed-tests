@@ -14,8 +14,9 @@ export class QuizzComponent implements OnInit {
   answerSelected: string = '';
   questionIndex: number = 0;
   questionMaxIndex: number = 0;
-
   finished: boolean = false;
+
+  img: any = './assets/imgs/logo.png';
 
   playerChoice(value: string) {
     this.answers.push(value);
